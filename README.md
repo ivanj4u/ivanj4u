@@ -1,12 +1,12 @@
 # 👋 Hi, saya [Ivan Aribanilia]
 
 💻 **DevOps Engineer | Java Spring Boot Developer**  
-🚀 Fokus pada pengembangan backend yang scalable, automation, dan cloud-native architecture.
+🚀 Fokus pada pengembangan backend yang scalable, automation, dan native architecture.
 
 ---
 
 ## 🧠 Tentang Saya
-- 🔧 DevOps Engineer dengan pengalaman CI/CD, containerization, dan cloud infrastructure
+- 🔧 DevOps Engineer dengan pengalaman CI/CD, containerization, dan IT infrastructure
 - ☕ Java Developer dengan spesialisasi **Spring Boot**
 - 🏗️ Terbiasa membangun REST API, microservices, dan sistem backend berskala besar
 - 📈 Senang mengoptimalkan performa, reliability, dan deployment pipeline
@@ -20,11 +20,10 @@
 - Spring Boot, Spring Security, Spring Data JPA
 - Hibernate, RESTful API, Microservices
 
-### ⚙️ DevOps & Cloud
+### ⚙️ DevOps
 - Docker & Docker Compose
 - Kubernetes
 - CI/CD: GitHub Actions, GitLab CI, Jenkins
-- Cloud: AWS / GCP
 - Linux & Bash Scripting
 - Nginx
 
@@ -44,8 +43,8 @@
 
 ## 🧩 Proyek Unggulan
 - 🚀 **Spring Boot Microservices** – REST API + JWT + Docker
-- ⚙️ **CI/CD Pipeline** – Build, test, dan deploy otomatis ke cloud
-- ☁️ **Cloud Infrastructure** – Deployment aplikasi dengan Kubernetes
+- ⚙️ **CI/CD Pipeline** – Build, test, dan deploy otomatis
+- ☁️ **Containerize** – Deployment aplikasi dengan Kubernetes
 
 ---
 
